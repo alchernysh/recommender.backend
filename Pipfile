@@ -11,6 +11,17 @@ easydict = "==1.9"
 psycopg2 = "==2.8.6"
 django-cors-headers = "==3.7.0"
 djangorestframework-simplejwt = "==4.6.0"
+lxml = "*"
+aiohttp = "*"
+aiohttp-socks = "*"
+requests = "*"
+redisai = "*"
+ml2rt = "*"
+torch = "==1.7.1"
+transformers = "==3.5.1"
+apscheduler = "*"
+django-apscheduler = "*"
+scipy = "*"
 
 [dev-packages]
 
